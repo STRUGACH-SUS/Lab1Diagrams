@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1Diagrams", "Lab1Diagrams\Lab1Diagrams.csproj", "{8053CA16-99EA-47F0-970E-CAE0CC7173CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8053CA16-99EA-47F0-970E-CAE0CC7173CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8053CA16-99EA-47F0-970E-CAE0CC7173CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8053CA16-99EA-47F0-970E-CAE0CC7173CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8053CA16-99EA-47F0-970E-CAE0CC7173CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
